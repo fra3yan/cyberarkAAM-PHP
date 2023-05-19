@@ -14,6 +14,9 @@ $PSDK_FOLDER="root"
 
 $PSDK_OBJECT="object_name"
 
+default path for linux
+$PSDK_PATH="/opt/CARKaim/sdk/clipasswordsdk"
+default path for windows
 $PSDK_PATH="C:\\Program Files (x86)\\CyberArk\\ApplicationPasswordSdk\\CLIPasswordSDK.exe"
 
 

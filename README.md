@@ -18,3 +18,5 @@ $PSDK_PATH="C:\\Program Files (x86)\\CyberArk\\ApplicationPasswordSdk\\CLIPasswo
 
 
 testing on PHP 7.4 & 8.1
+
+change PrivateTmp=false if you have problem on permission
